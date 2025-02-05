@@ -39,3 +39,8 @@ button {
 button:hover {
     background: #c9184a;
 }
+
+img{
+    width: 260px;
+    border-radius: 10px;
+}
